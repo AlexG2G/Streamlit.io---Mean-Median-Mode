@@ -9,8 +9,3 @@ if st.button('Calculate Mean, Median and Mode for Dataset above'):
     choice = df.sample(10)
     body(choice)
     st.write(df)
-
- 
-    
-
-  
